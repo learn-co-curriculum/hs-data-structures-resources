@@ -8,4 +8,4 @@ Interested in learning more about ruby's data structures? Here are some great re
 
 + [Ruby in 100 Minutes - Arrays](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#7.-arrays)
 
-+ [Ruby in 100 Minutes - Arrays](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes)
++ [Ruby in 100 Minutes - Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes)
