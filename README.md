@@ -9,4 +9,4 @@ Interested in learning more about Ruby's data structures? Here are some great re
 
 + [Ruby in 100 Minutes - Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes). And this is a quick read on hashes.
 
-<a href='https://learn.co/lessons/hs-data-structures-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-data-structures-resources' title='Arrays and Hashes Resources'>Arrays and Hashes Resources</a> on Learn.co and start learning to code for free.</p>
